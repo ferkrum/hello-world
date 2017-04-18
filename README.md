@@ -3,4 +3,6 @@ getting used to GitHub
 
 Understanding the way GitHub Works.
 
-Alterando primeiro branch.
+Primeira alteração do branch.
+
+Segunda alteração do branch.
